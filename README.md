@@ -12,5 +12,5 @@ The references taken for this course are both courses and books.
 Highly recommended taking it for an introduction to the Data Science.
 
 ### Books:
-Not yet used
+Not used yet
 
