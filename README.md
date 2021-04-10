@@ -11,6 +11,10 @@ The references taken for this course are both courses and books.
 - Udemy Course: https://www.udemy.com/course/machinelearningpython/
 Highly recommended taking it for an introduction to the Data Science.
 
+Also, there are parts from the SoloLearn, specifically from:
+- Data Science
+- Machine Learning
+
 ### Books:
 Not used yet
 
