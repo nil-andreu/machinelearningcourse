@@ -3,4 +3,7 @@ This model is previously trained and stored inside of pkl_objects.
 
 To you be able to run this, first: pip install requirements.txt.
 
-### 1. Developing the API
+This will be a model of ML for Sentiment Analysis. So first we have to create a vectorizer that will transform the data that the user enters to data that the model can understand.
+
+### 1. Developing the Vectorizer
+This 
