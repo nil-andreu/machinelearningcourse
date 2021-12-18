@@ -7,3 +7,5 @@ This will be a model of ML for Sentiment Analysis. So first we have to create a 
 
 ### 1. Developing the Vectorizer
 This 
+
+p.295 i repassar tot lo anterior + fer els capitols anteriors a codig i repassarlos constantment + practicar parts refentles
